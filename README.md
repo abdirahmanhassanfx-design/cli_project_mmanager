@@ -2,8 +2,6 @@
 
 A terminal application for tracking users, projects, and tasks. Administrators create people, group them into projects, assign task contributors, and update completion status. Everything is stored in a local JSON file, so the data is still there the next time the program starts.
 
-This is a command-line program. It does not open a web page or a desktop window.
-
 ## Features
 
 - Create, list, search, view, and edit users
